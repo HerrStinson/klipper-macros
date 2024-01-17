@@ -395,7 +395,7 @@ Moonraker keep them up to date by adding the following into your
 ```
 [update_manager klipper-macros]
 type: git_repo
-origin: https://github.com/jschuh/klipper-macros.git
+origin: https://github.com/HerrStinson/klipper-macros.git
 path: ~/printer_data/config/klipper-macros # UPDATE THIS FOR YOUR PATH!!!
 primary_branch: main
 is_system_service: False
