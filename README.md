@@ -1,3 +1,9 @@
+This is HerrStinson's personal fork of klipper-macros, it is meant to be used on 
+[KV300](https://github.com/HerrStinson/KV300) to reflect personal adaptation.
+Use at your own risk.
+
+---
+
 # klipper-macros
 
 This is a collection of macros for the
@@ -143,7 +149,7 @@ To install the macros, first clone this repository inside of your
 `printer_data/config` directory with the following command.
 
 ```
-git clone https://github.com/jschuh/klipper-macros.git
+git clone https://github.com/HerrStinson/klipper-macros.git
 ```
 
 Then paste the below sections into your `printer.cfg` to get started. Or even
